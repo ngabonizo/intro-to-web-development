@@ -11,3 +11,114 @@
 }
 
 /* Write your code below this */
+
+.navbar{
+  width: 100%;
+   display : flex;
+   padding: 26px 60px;
+  justify-content: space-between;
+}
+
+li {
+  display: inline-block;
+  list-style-type: none;/*removes the bullates*/
+  margin: 0 12px;
+}
+
+.hero{
+  background-image: url('/images/hero.png');
+  height: 500px;
+  padding-top: 219px;
+  padding-left: 103px;
+}
+
+h1{
+  font-size: 36px;
+  margin-bottom: 15px;
+}
+
+button{
+  padding-top: 35px;
+  padding: 12px 30px;
+  background: #52647E;
+  color: white;
+  border-radius: 10px;
+}
+
+.journey{
+  background: #618379;
+  padding: 57px 0;
+}
+
+h2{
+color: white;
+font-size: 32px;
+padding: 32px;
+text-align: center;
+font-weight: 500;
+margin-bottom: 57px;
+}
+
+.journey-list {
+  display: flex;
+  width: 80%;
+  margin: 0 10%;
+  justify-content: space-between;
+}
+
+.journey-card {
+  width: 30%;
+  background-color: white;
+  padding: 25px;
+  color: gray;
+}
+
+.journey-image {
+ border-radius: 25px;
+ margin-bottom: 25px;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 20px;
+  color: black;
+  margin-bottom: 12px;
+}
+
+footer {
+  background: #333232;
+  text-align: center;
+  color: white;
+  padding: 30px;
+}
+
+.about-me {
+  color: black;
+  font-size: 17px;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+.aboutParagraph {
+  font-size: 11px;
+  font-weight: 600;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.mygoals-container{
+  background-color: rgb(223, 220, 220);
+}
+.mygoals{
+  color: black;
+  font-size: 17px;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+.mygoals-paragraph{
+  font-size: 11px;
+  font-weight: 600;
+  text-align: center;
+  padding-bottom: 50px; 
+}
