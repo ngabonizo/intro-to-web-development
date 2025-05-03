@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../youtube-project"
+		},
+		{
+			"path": "../amazon-project"
+		},
+		{
+			"path": "../Games"
+		},
+		{
+			"path": "../practiceprojects"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practiceprojects"
+	}
+}
